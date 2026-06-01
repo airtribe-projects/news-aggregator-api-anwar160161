@@ -1,2 +1,7 @@
 node_modules
 .tap
+__pycache__/
+venv/
+.env
+news.db
+.pytest_cache/
